@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EventCalendar/static/css/main.5fc51813.css",
+    "main.js": "/EventCalendar/static/js/main.33f8abac.js",
+    "static/media/anothertech.png": "/EventCalendar/static/media/anothertech.ff2516a05f0147273097.png",
+    "static/media/mketechhub4.jpg": "/EventCalendar/static/media/mketechhub4.ee934d01001df7300a8b.jpg",
+    "static/media/dt.jpg": "/EventCalendar/static/media/dt.882f9c3a8a9dbee2d899.jpg",
+    "static/media/mketechhub5.jpg": "/EventCalendar/static/media/mketechhub5.047da2fc4e1db4b839f0.jpg",
+    "static/media/workplace.jpg": "/EventCalendar/static/media/workplace.912d951df7265483df84.jpg",
+    "static/media/tech.jpg": "/EventCalendar/static/media/tech.bfcef8d7848d9c0aac0b.jpg",
+    "static/media/mketech.png": "/EventCalendar/static/media/mketech.1983d7620cd8a2e6a3ec.png",
+    "static/media/mketechhub3.jpg": "/EventCalendar/static/media/mketechhub3.e18836dd611aeb36af1f.jpg",
+    "static/media/Gender.jpg": "/EventCalendar/static/media/Gender.f3026709e3857e467871.jpg",
+    "static/media/recruit.png": "/EventCalendar/static/media/recruit.13842c90753c1f08d9ca.png",
+    "index.html": "/EventCalendar/index.html",
+    "main.5fc51813.css.map": "/EventCalendar/static/css/main.5fc51813.css.map",
+    "main.33f8abac.js.map": "/EventCalendar/static/js/main.33f8abac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fc51813.css",
+    "static/js/main.33f8abac.js"
+  ]
+}
